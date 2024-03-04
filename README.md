@@ -32,7 +32,8 @@ Head pose detection using supervised machine learning techniques. The models are
 
 This project is available on Kaggle, where additional datasets for testing purposes are provided.
 
-    Kaggle Repository: [Link](https://www.kaggle.com/code/mohamedadlyi/head-pose-estimation)
+- Kaggle Repository: [Link](https://www.kaggle.com/code/mohamedadlyi/head-pose-estimation)
+
 
 Users can access the project on Kaggle for experimentation with additional datasets and testing.
 
